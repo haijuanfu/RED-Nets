@@ -1,2 +1,2 @@
 # RED-Nets
-RED-Nets: Redistribution Networks for Multi-View Classification
+We will publish our code after our paper is accepted.
